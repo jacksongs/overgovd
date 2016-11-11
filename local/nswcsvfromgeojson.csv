@@ -1,0 +1,114 @@
+cartodb_id,wards,link_name,status,lga_name
+91,N,edward-river-council,Commenced,Edward River Council
+86,Y,central-coast-council,Commenced,Central Coast Council
+68,,,No Change,Inverell Shire Council
+72,,,No Change,Wagga Wagga City Council
+75,,,No Change,Coonamble Shire Council
+76,,,No Change,Warren Shire Council
+77,,,No Change,Muswellbrook Shire Council
+78,,,No Change,Upper Hunter Shire Council
+79,,,No Change,Lachlan Shire Council
+112,,,No Change,Hawkesbury City Council
+93,Y,georges-river-council,Commenced,Georges River Council
+104,Y,northern-beaches-council,Commenced,Northern Beaches Council
+100,N,mid-coast-council,Commenced,Mid-Coast Council
+96,N,snowy-monaro-regional-council,Commenced,Snowy Monaro Regional Council
+39,,,No Change,Port Macquarie-Hastings Council
+40,,,No Change,Clarence Valley Council
+41,,,No Change,Kyogle Council
+42,,,No Change,Tenterfield Shire Council
+43,,,No Change,Wentworth Shire Council
+44,,,No Change,Gilgandra Shire Council
+45,,,No Change,Bogan Shire Council
+46,,,No Change,Junee Shire Council
+50,,,No Change,Narrabri Shire Council
+51,,,No Change,Walgett Shire Council
+83,N,armidale-regional-council,Commenced,Armidale Regional Council
+92,N,federation-council,Commenced,Federation Council
+22,,armidale-dumaresq-guyra-shire-uralla-shire-and-walcha-councils,Pending,Uralla Shire Council
+106,N,queanbeyan-palerang-regional-council,Commenced,Queanbeyan-Palerang Regional Council
+80,,,No Change,Brewarrina Shire Council
+81,,,No Change,Bourke Shire Council
+82,,,No Change,Cowra Shire Council
+15,,,No Change,Mid-Western Regional Council
+1,,,No Change,Albury City Council
+3,,,No Change,Tweed Shire Council
+5,,,No Change,Berrigan Shire Council
+6,,,No Change,Lake Macquarie City Council
+16,,,No Change,Warrumbungle Shire Council
+17,,,No Change,Cessnock City Council
+18,,,No Change,Kempsey Shire Council
+19,,,No Change,Temora Shire Council
+20,,,No Change,Wingecarribee Shire Council
+21,,,No Change,Glen Innes Severn Shire Council
+24,,,No Change,Singleton Shire Council
+69,,,No Change,Greater Hume Shire Council
+26,,armidale-dumaresq-guyra-shire-uralla-shire-and-walcha-councils,Pending,Walcha Council
+95,N,gundagai-council,Commenced,Gundagai Council
+54,,,No Change,Richmond Valley Council
+55,,,No Change,Lismore City Council
+56,,,No Change,Liverpool Plains Shire Council
+57,,,No Change,Tamworth Regional Council
+58,,,No Change,Cobar Shire Council
+101,Y,murray-river-council,Commenced,Murray River Council
+97,N,hilltops-council,Commenced,Hilltops Council
+105,,blayney-shire-cabonne-and-orange-city-councils,Pending,"Blayney Shire, Cabonne and Orange City councils"
+13,,,No Change,Blue Mountains City Council
+27,,,No Change,Moree Plains Shire Council
+28,,,No Change,Gunnedah Shire Council
+29,,,No Change,Weddin Shire Council
+52,,,No Change,Eurobodalla Shire Council
+53,,,No Change,Bega Valley Shire Council
+94,,bathurst-regional-and-oberon-councils,Pending,Bathurst Regional and Oberon councils
+99,,dungog-shire-and-maitland-city-councils,Pending,Dungog Shire and Maitland City councils
+33,,,No Change,Parkes Shire Council
+34,,,No Change,Forbes Shire Council
+35,,,No Change,Lithgow City Council
+37,,,No Change,Narromine Shire Council
+38,,,No Change,Bland Shire Council
+102,Y,murrumbidgee-council,Commenced,Murrumbidgee Council
+108,N,snowy-valleys-council,Commenced,Snowy Valleys Council
+0,,mosman-municipal-north-sydney-and-willoughby-city-councils,Pending,"Mosman Municipal, North Sydney and Willoughby City councils"
+87,,shellharbour-and-wollongong,Pending,Shellharbour City and Wollongong City councils
+2,,,No Change,Council of The City Of Sydney
+61,,,No Change,Ballina Shire Council
+62,,,No Change,Byron Shire Council
+64,,,No Change,Wollondilly Shire Council
+65,,,No Change,Hay Shire Council
+116,,,No Change,Shoalhaven City Council
+107,,hunters-hill-lane-cove-and-city-of-ryde-councils,Pending,"Hunter's Hill, Lane Cove and City Of Ryde councils"
+30,,,No Change,Upper Lachlan Shire Council
+31,,,No Change,Goulburn Mulwaree Council
+32,,,No Change,Coffs Harbour City Council
+47,,,No Change,Coolamon Shire Council
+89,Y,cumberland-council,Commenced,Cumberland Council
+48,,,No Change,Central Darling Shire Council
+49,,,No Change,Balranald Shire Council
+66,,,No Change,Carrathool Shire Council
+110,Y,western-plains-regional-council,Commenced,Western Plains Regional Council
+103,,newcastle-city-and-port-stephens-councils,Pending,Newcastle City and Port Stephens councils
+111,,hornsby-shire-and-ku-ring-gai-councils,Pending,Hornsby Shire* and Ku-ring-gai councils
+67,,,No Change,Griffith City Council
+8,,,No Change,Yass Valley Council
+9,,,No Change,Broken Hill City Council
+10,,,No Change,Gwydir Shire Council
+11,,,No Change,Bellingen Shire Council
+12,,,No Change,Nambucca Shire Council
+98,Y,inner-west-council,Commenced,Inner West Council
+23,,,No Change,Fairfield City Council
+14,,,No Change,Leeton Shire Council
+25,,,No Change,Sutherland Shire Council
+59,,,No Change,Blacktown City Council
+60,,,No Change,Penrith City Council
+63,,,No Change,Camden Council
+70,,,No Change,Lockhart Shire Council
+71,,,No Change,Narrandera Shire Council
+73,,,No Change,Liverpool City Council
+74,,,No Change,Campbelltown City Council
+113,,,Boundary alteration,The Hills Shire Council
+115,,,No Change,The Council Of The Municipality Of Kiama
+85,Y,canterbury-bankstown-council,Commenced,Canterbury-Bankstown Council
+88,Y,city-of-parramatta-council,Commenced,City of Parramatta Council
+109,,burwood-city-of-canada-bay-and-strathfield-municipal-councils,Pending,"Burwood, City of Canada Bay and Strathfield Municipal councils"
+90,,randwick-city-waverley-and-woollahra-municipal-councils,Pending,"Randwick City, Waverley and Woollahra Municipal councils"
+84,Y,bayside-council,Commenced,Bayside Council
